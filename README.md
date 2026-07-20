@@ -6,6 +6,7 @@ this is my 1st git repository
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShrustiSatabdi/project1/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/ShrustiSatabdi/project1/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShrustiSatabdi/project1/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShrustiSatabdi/project1/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -54,4 +55,20 @@ this is my 1st git repository
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ShrustiSatabdi/project1/tree/master/0208-implement-trie-prefix-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ShrustiSatabdi/project1/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ShrustiSatabdi/project1/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ShrustiSatabdi/project1/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ShrustiSatabdi/project1/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
