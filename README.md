@@ -10,6 +10,7 @@ this is my 1st git repository
 | [0046-permutations](https://github.com/ShrustiSatabdi/project1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ShrustiSatabdi/project1/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/ShrustiSatabdi/project1/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShrustiSatabdi/project1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShrustiSatabdi/project1/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShrustiSatabdi/project1/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShrustiSatabdi/project1/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -45,6 +46,7 @@ this is my 1st git repository
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShrustiSatabdi/project1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShrustiSatabdi/project1/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -84,4 +86,16 @@ this is my 1st git repository
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShrustiSatabdi/project1/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShrustiSatabdi/project1/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShrustiSatabdi/project1/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShrustiSatabdi/project1/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
