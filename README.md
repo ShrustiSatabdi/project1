@@ -6,6 +6,7 @@ this is my 1st git repository
 ## Array
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/ShrustiSatabdi/project1/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShrustiSatabdi/project1/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -23,4 +24,8 @@ this is my 1st git repository
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ShrustiSatabdi/project1/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/ShrustiSatabdi/project1/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
