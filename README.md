@@ -6,6 +6,7 @@ this is my 1st git repository
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ShrustiSatabdi/project1/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ShrustiSatabdi/project1/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/ShrustiSatabdi/project1/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/ShrustiSatabdi/project1/tree/master/0455-assign-cookies) |
@@ -75,5 +76,6 @@ this is my 1st git repository
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ShrustiSatabdi/project1/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ShrustiSatabdi/project1/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
